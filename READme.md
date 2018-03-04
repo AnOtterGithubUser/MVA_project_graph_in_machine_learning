@@ -1,1 +1,7 @@
-# Experiments on combinatorial semi bandits\n Implementation from several research articles:\n-J.Y.Audibert, S.Bubeck, G.Lugosi, 'Regrets in online combinatorial optimization', 2014\n-G.Neu, G.Bartok, 'Importance weighting without importance weights: an efficient algorithm for combinatorial semi bandits', 2015\n-B.Kveton, A.Ashkan,Z.Wen,C.Szepesvari, 'Tight regret bounds for stochastic combinatorial semi bandits',2015
+# MVA 2016/2017
+Course: Graphs in Machine Learning, by Michal VALKO  
+This was a project to validate the course. The aim was to implement understand and implement several optimization algorithms from the litterature in a combinatorial semi bandit setting and to test and compare these on diverse issues.  
+## Bibliography
+*Regrets In Online Combinatorial Optimization*, J-Y Audibert, S Bubeck, G Lugosi\n
+*Importance Weighting Without Importance Weights: An Efficient Algorithm For Combinatorial Semi Bandits*, G Neu, G Bartok
+*Tight Regret bounds For Stochastic Combinatorial Semi Bandits* B Kveton, A Ashkan, Z wen, C Szepesvari
